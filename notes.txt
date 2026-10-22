@@ -1,1 +1,2 @@
 This lab is about Git workflow and commits
+Second line added in notes
